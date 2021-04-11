@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body{
+  background-image: url("pic/b.jpg");
+  background-size: cover;
+}
+button {
+    font-size: 50px;
+    background-color: rgba(252, 56, 13, 1);
+    font-family: Quicksand;
+    border-radius: 6px;
+    color: white;
+    border-color: rgba(252, 56, 13, 1);
+     position:absolute; 
+margin-top: 35%;
+margin-left: 29%;
+padding-left: 15%;
+padding-right: 15%;
+
+}
+
+button:hover {
+  background-color: pink;
+}
+a { 
+    text-decoration: none; 
+    color: white;
+
+}
+a:visited { 
+    text-decoration: none; 
+    color: white;
+}
+#square{
+
+  position: absolute;
+margin-left: 25%;
+
+}
+#trash{
+  text-align: center;
+  position:fixed;
+margin-left: 42%;
+  margin-top: 8%;
+}
+#lefta{
+  position:fixed; 
+margin-top: 23%;
+    margin-left: 28%;
+}
+#righta{
+   position:absolute; 
+  padding-top: 23%;
+    margin-left: 66%; 
+}
+h1{
+  color: rgba(6, 74, 17, 1);
+  font-family: Quicksand;
+  margin-top: 20%;
+    margin-left: 33%;
+    position: fixed;
+    text-align: center;
+
+
+}
+#exit{
+     position:fixed; 
+  padding-top: 5%;
+    padding-left: 66%; 
+
+}
+#pep{
+  color: rgba(252, 56, 13, 1);
+  font-family: Quicksand;
+  text-align: center;
+
+}
