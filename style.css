@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body{
+  background-image: url("pic/b.jpg");
+  background-size: cover;
+}
+/*.game { the size of the main div
+margin: auto;
+ width: 50%;
+
+ padding: 10px;
+ position:absolute;
+ width: 100vw;
+  height: 100vh;
+
+}/*/
+#backgroundimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+/*.begin {
+  position:absolute;
+  top: 50%;
+  left:50%;
+  text-align: center;
+} */
+/*button.tutorial {
+    font-size: 65px;
+    background-color: rgba(252, 56, 13, 1);
+    position: absolute;
+    color: white;
+    font-family: Quicksand;
+    border-radius: 10%;
+    border-color: rgba(252, 56, 13, 1);
+    margin-top: 35%;
+    margin-left: 26%;
+ 
+}
+
+button.play {
+    font-size: 65px;
+    background-color: rgba(252, 56, 13, 1);
+    position: absolute;
+    color: white;
+    font-family: Quicksand;
+    border-radius: 10%;
+    border-color: rgba(252, 56, 13, 1);
+    margin-top: 35%;
+    margin-left: 55%;
+    padding-left: 6%;
+    padding-right:6%; */
+  
+    
+}
+
+.test1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button:hover {
+  background-color: pink;
+}
+a { 
+    text-decoration: none; 
+    color: white;
+
+}
+a:visited { 
+    text-decoration: none; 
+    color: white;
+}
+#tutorial{
+  font-size: 50px;
+    background-color: rgba(252, 56, 13, 1);
+    font-family: Quicksand;
+    border-radius: 6px;
+    color: white;
+    border-color: rgba(252, 56, 13, 1);
+     position:absolute; 
+margin-top: 35%;
+margin-left: 9%;
+padding-left: 2%;
+padding-right: 2%;
+}
+#play{
+  font-size: 50px;
+    background-color: rgba(252, 56, 13, 1);
+    font-family: Quicksand;
+    border-radius: 6px;
+    color: white;
+    border-color: rgba(252, 56, 13, 1);
+     position:absolute; 
+margin-top: 35%;
+margin-left: 59%;
+padding-left: 10%;
+padding-right: 10%;
+}
+.logo{
+  text-align: center;
+  position: absolute;
+  margin-top: .125%;
+  margin-left:38%
+}
