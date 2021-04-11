@@ -1,0 +1,54 @@
+body{
+  background-image: url("pic/b.jpg");
+  background-size: cover;
+}
+
+#tcan{
+ position: absolute;
+  margin-top: 30%;
+  margin-left: 5%;
+  
+}
+#trashw{
+  position: absolute;
+  margin-top: 43%;
+  margin-left: 5%; 
+}
+#ccan{
+ margin-left: 45%;
+  margin-top: 30%;
+  position: absolute;
+}
+#compostw{
+    position: absolute;
+  margin-top: 43%;
+  margin-left: 44%; 
+}
+#rcan{
+  margin-top: 30%;
+  position: absolute;
+  margin-left: 85%
+}
+#recyclew{
+    position: absolute;
+  margin-top: 43%;
+  margin-left: 84%; 
+}
+#apple{
+    margin-top: 16%;
+  margin-left: 20%;
+}
+#battery{
+  margin-top: 4%;
+  margin-left: 30%;
+}
+#banana{
+  margin-top: 12%;
+  margin-left: 15%;
+}
+#exit{
+position: absolute;
+
+margin-left: 90%; 
+padding-top: 1ch;
+}
